@@ -3,7 +3,6 @@ package Composicion;
 	public class CuerpoHumano{
 
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
 			Corazon corazon = new Corazon();
 			Cerebro cerebro = new Cerebro();
 			Estomago estomago = new Estomago();
@@ -30,4 +29,4 @@ package Composicion;
 		}
 
 	}
-}
+	
